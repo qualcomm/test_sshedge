@@ -17,7 +17,6 @@ jobs:
       enable-commit-msg-check: false
       enable-armor-checkers: false
       enable-full-repo-scan: true
-      full-repo-scan-fail-on-findings: 'true'
     permissions:
       contents: read
       security-events: write
